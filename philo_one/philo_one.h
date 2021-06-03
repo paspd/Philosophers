@@ -1,6 +1,15 @@
 #ifndef PHILO_ONE_H
 # define PHILO_ONE_H
 
+dfv
+fd
+vdf
+v
+dfv
+fd
+v
+default
+
 # include <stddef.h>
 # include <stdlib.h>
 # include <stdio.h>
