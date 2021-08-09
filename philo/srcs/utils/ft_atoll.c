@@ -1,6 +1,6 @@
-#include "../philo_one.h"
+#include "../../incs/philo.h"
 
-long long		ft_atoll(char *str)
+long long	ft_atoll(char *str)
 {
 	int			i;
 	int			f;

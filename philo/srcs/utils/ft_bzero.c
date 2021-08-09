@@ -1,5 +1,4 @@
-#include "../philo_one.h"
-
+#include "../../incs/philo.h"
 
 void	ft_bzero(void *s, size_t n)
 {
